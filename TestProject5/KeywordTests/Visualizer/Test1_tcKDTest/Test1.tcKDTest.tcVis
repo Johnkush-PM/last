@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{9E0642D4-A9CF-4DA6-9174-E88E39F5F187}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="2" kind="0" dateTime="44882.5076388889" objectName="Aliases.browser.pageSignIntoLexingtonSoft.sectionLoginContainer.formNewUserSession.emailinputUserSessionEmail" objectLeft="156" objectTop="352" objectRight="563" objectBottom="392" clickPointX="-1" clickPointY="-1" imageFileName="tcvi4153568122401642.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="3" kind="0" dateTime="44882.507662037" objectName="Aliases.browser.pageSignIntoLexingtonSoft.sectionLoginContainer.formNewUserSession.passwordboxUserSessionPassword" objectLeft="156" objectTop="408" objectRight="563" objectBottom="448" clickPointX="244" clickPointY="427" imageFileName="tcvi4153587652401643.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="4" kind="0" dateTime="44882.5076736111" objectName="Aliases.browser.pageSignIntoLexingtonSoft.sectionLoginContainer.formNewUserSession.passwordboxUserSessionPassword" objectLeft="156" objectTop="408" objectRight="563" objectBottom="448" clickPointX="-1" clickPointY="-1" imageFileName="tcvi4153591872401644.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="5" kind="0" dateTime="44882.5076967593" objectName="Aliases.browser.pageSignIntoLexingtonSoft.sectionLoginContainer.formNewUserSession.buttonLogin" objectLeft="156" objectTop="540" objectRight="242" objectBottom="570" clickPointX="203" clickPointY="552" imageFileName="tcvi4153611252401645.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>
