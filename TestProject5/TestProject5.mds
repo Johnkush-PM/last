@@ -7,7 +7,13 @@
 	</children>
 	<config language="{90F89436-9452-4F95-9882-6B5210079F13}" />
 	<testItems key="{10289DC1-4063-44FC-A012-EA10584D17E6}" version="14">
-		<children />
+		<children>
+			<testItem name="Test1" key="{158300EB-678D-4D63-ACF5-14F1642DFD37}" group="False" parallel="False" enabled="True" testMoniker="KDT\{9E0642D4-A9CF-4DA6-9174-E88E39F5F187}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+				<testParameters />
+				<environments activeCloud="SWT" />
+				<children />
+			</testItem>
+		</children>
 	</testItems>
 	<variables key="{3CE3D6C3-F5AF-4A39-BA0C-65026711CD74}">
 		<data Version="4">
